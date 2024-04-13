@@ -29,13 +29,13 @@
  📶 Stats:<br><br>
 
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene44-hub&theme=dark&layout=compact&align=center&width=100%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneYoona&theme=dark&layout=compact&align=center&width=100%)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/Eugene44-hub/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/EugeneYoona/count.svg?align=center)
 
 <!-- GITHUB STATISTICS -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=EugeneYoona&theme=github_dark&show_icons=true)

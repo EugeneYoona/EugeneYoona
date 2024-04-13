@@ -18,9 +18,9 @@
 <a href="https://stars.github.com/nominate/">Give me a star if you like what you see</a>
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-EugeneIshado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugene-ishado-30070220a/)](https://www.linkedin.com/in/eugene-ishado-30070220a/)
+[![Gmail Badge](https://img.shields.io/badge/-yoonaeugene@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonaeugene@gmail.com)](mailto:yoonaeugene@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-eugeneishado44@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugeneishado44@gmail.com)](mailto:eugeneishado44@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-EugeneYoona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugene-yoona-30070220a/)](https://www.linkedin.com/in/eugene-yoona-30070220a/)
 
 ---
 

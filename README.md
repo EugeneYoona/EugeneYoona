@@ -38,17 +38,17 @@
 ![visitors](https://profile-counter.glitch.me/Eugene44-hub/count.svg?align=center)
 
 <!-- GITHUB STATISTICS -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=Eugene44-hub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=center)
+![My github stats](https://github-readme-stats.vercel.app/api?username=EugeneYoona&theme=github_dark&show_icons=true)
 
  <hr>
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eugene44-hub&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EugeneYoona&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 ---
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Eugene's github activity graph](https://activity-graph.herokuapp.com/graph?username=Eugene44-hub&theme=react-dark)](https://github.com/Eugene44-hub/github-readme-activity-graph)
+[![Eugene's github activity graph](https://activity-graph.herokuapp.com/graph?username=EugeneYoona&theme=react-dark)](https://github.com/Eugene44-hub/github-readme-activity-graph)
 
 ---
   </code>
